@@ -1,0 +1,11 @@
+﻿vortex1,vortex2,weight
+u,v,2
+u,x,1
+u,w,5
+v,w,3
+v,x,2
+x,w,3
+w,y,1
+x,y,1
+w,z,5
+y,z,2
